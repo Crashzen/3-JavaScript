@@ -1,17 +1,11 @@
-div.boxy {
-    border: 1px solid black;
+div.scrollbox{
+    border: 3px solid black;
+    width: 300px;
+    height: 100px;
+    margin-bottom: 12pt;
+    overflow-y:scroll;
+    background-color:lavender;
 }
-div.name {
-    background: rgb(185, 185, 185);
+.para{
+border: 1px solid black
 }
-div.email {
-    background: rgb(185, 185, 185);
-}
-div.dob {
-    background: rgb(185, 185, 185);
-}
-div.pic {
-    background: rgb(121, 121, 121);
-    border: 1px solid black;
-}
-
