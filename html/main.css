@@ -3,15 +3,29 @@ div.boxy {
 }
 div.name {
     background: rgb(185, 185, 185);
+    padding: 5px;
 }
 div.email {
     background: rgb(185, 185, 185);
+    padding: 5px;
 }
 div.dob {
     background: rgb(185, 185, 185);
-}
-div.pic {
-    background: rgb(121, 121, 121);
-    border: 1px solid black;
+    padding: 5px;
 }
 
+div.profpic {
+    background: rgb(121, 121, 121);
+}
+
+div.submission {
+    background-color:rgb(255, 255, 255);
+    border-color: black;
+    border-width: 10px;
+    border-style: groove;
+    width:fit-content;
+}
+
+div.body {
+    width:fit-content;
+}
